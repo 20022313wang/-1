@@ -36,9 +36,9 @@
             <td width="60">爱好：</td>
             <td width="60" colspan="5">
                 <label><input type="checkbox" name="like" value="0">旅游</label>
-                <label><input type="checkbox" name="like" value="1">登山</label>
+                <label><input type="checkbox" name="like" value="1">跑步</label>
                 <label><input type="checkbox" name="like" value="2">健身</label>
-                <label><input type="checkbox" name="like" value="3">上网</label>
+                <label><input type="checkbox" name="like" value="3">玩游戏</label>
                 <label><input type="checkbox" name="like" value="4">游泳</label>
             </td>
         </tr>
